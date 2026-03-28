@@ -58,7 +58,7 @@ Car-Sales-Analysis-Dashboard/
 
 ## 📐 Sample DAX Measures
 
-```dax
+dax
 Total Revenue = SUM(car_data[Price ($)])
 Total Cars Sold = COUNTROWS(car_data)
 MoM Growth % = DIVIDE([Total Revenue] - [Revenue Last Month], [Revenue Last Month]) * 100
@@ -84,9 +84,9 @@ Explore interactive slicers (Company, Region, Month)
 📫 Connect With Me
 Email: safa.moeen4545@gmail.com
 
-LinkedIn: linkedin.com/in/safa-moeen (Replace with your actual URL)
+LinkedIn: https://www.linkedin.com/in/safa-moeen-90b7bb261/
 
-GitHub: github.com/safamoeen (Replace with your actual URL)
+GitHub: (https://github.com/safamoeen4545-debug/Car-Sales-Analysis-Dashboard/edit/main/README.md)
 
 ⭐ Why This Project?
 Real-world business problem – Automotive sales analytics
